@@ -28,7 +28,7 @@ unit tests, and just as easily.
 
 It is a first-of-its-kind tool that bridges the gap between fuzzing and
 property-based testing, as it is both:
-
+ttt
 1.  a testing framework with a rich [API](doc/domains-reference.md) (akin to
     property-based testing libraries), and
 2.  a coverage-guided fuzzing engine (akin to
